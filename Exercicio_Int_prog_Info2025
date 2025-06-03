@@ -1,0 +1,60 @@
+Passo a passo:
+(1) - Identificar quais são as entradas de dados ( as informações que irão chegar ao programa);
+(2) - Identificar quais são as saídas de dados (informações que o algoritmo irá apresentar ao usuário);e
+(3) - Realizar o processamento de dados( O processo realizado para converter as informações de entrada em informações de saída desejada).
+
+Q1 - Escreva um algoritmo de linguagem natural que leia dois valores "a" e "b", calcule a subtração entres "a" e "b" e mostre o resultado da multiplicação:
+
+
+(1) - Entrada = Valores "a" e "b".
+(2) - Saída =  Resultado do cálculo da subtração entre os valores "a" e "b" - [resultado] = [a].[b].
+(3) - Processamento = Cálculo da subtração entre os valores "a" e "b".
+
+
+( "a"/"a" seja um valor inteiro positivo )
+( "b"/"b" seja um valor inteiro positivo )
+
+
+1. Identifique e leia os valores "a" e "b";
+2. Calcule o resultado da diferença entre os valores "a" e "b" [resultado] = [a]-[b];
+3. Apresente o resultado da diferença entre os valores "a" e "b" [resultado] = [a]-[b].
+
+
+Q2 - Escreva um algoritmo utilizando linguagem natural que leia dois valores "a" e "b", calcule o produto entre "a" e "b" e mostre o resultado da multiplicação:
+
+
+(1) - Entrada = Valores "a" e "b".
+(2) - Saída = Resultado da multiplicação dos valores "a" e "b".
+(3) - processamento = Cálculo do produto dos valores "a" e "b".
+
+
+( "a"/"a" seja um valor inteiro positivo )
+( "b"/"b" seja um valor inteiro positivo )
+
+
+1. Identifique e leia os valores "a" e "b";
+2. Calcule o resultado do produto entre os valores "a" e "b"  [resultado] = [a].[b];
+3. Apresente o resultado da multiplicação entre os valores "a" e "b"  [resultado] = [a].[b].
+
+
+Q3 - Escreva um algoritmo de linguagem natural que leia os valores "a" e "b", calcule a divisão de "a" por "b" e mostre o resultado final da operação:
+
+
+(1) - Entrada = Valores "a" e "b".
+(2) - Saída = Resultado da divisão de "a" por "b" - [resultado] = [a]:[b].
+(3) - Processamento = Cálculo da divisão entre "a" e "b" - [resultado] = [a]:[b].
+
+
+( "a"/"a" seja um valor inteiro positivo )
+( "b"/"b" seja um valor inteiro positivo )
+
+
+1. Identifique e leia os valores de "a" e "b";
+2. Calcule o resultado da divisão entre os valores "a" e "b" [resultado] = [a]:[b].
+3. Apresente o resultado final da divisão dos valores "a" e "b" [resultado] = [a]:[b].
+
+
+
+
+
+
